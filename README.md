@@ -2,6 +2,6 @@
 
 ## Execução
 
-Para executar corretamente essa solução basta iniciar um servidor local na raiz do projeto uzando o comando abaixo:
+Para executar corretamente essa solução basta iniciar um servidor local na raiz do projeto usando o comando abaixo:
 
 `php -S localhost:8080`
